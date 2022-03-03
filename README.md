@@ -26,3 +26,4 @@ Contoh 10 BR
 9. Meta gaming : menggabungkan unsur ooc dan ic contoh menyebut nama orang  yang ada diatas kepala
 
 10. Refuse rp : menolak rp atau membatalkan rp tanpa sebab
+Btw brnya versi saya sendiri hehe btw bukan copas br
