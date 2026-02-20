@@ -2,11 +2,12 @@
   <img src="https://capsule-render.vercel.app" />
 </p>
 
-<p align="center">
-  <img src="https://github.com" width="150" />
-  <br>
-  <b>Kualitas Super Minat Cek Repo</b>
-</p>
+<table>
+  <tr>
+    <td><img src="https://github.com" width="150"></td>
+    <td><b>Kualitas Super Minat Cek Repo</b></td>
+  </tr>
+</table>
 
 ---
 
@@ -14,8 +15,9 @@
   <img src="https://capsule-render.vercel.app" />
 </p>
 
-<p align="center">
-  <img src="https://github.com" width="150" />
-  <br>
-  <b>Mwah Mwah Mwah</b>
-</p>
+<table>
+  <tr>
+    <td><img src="https://github.com" width="150"></td>
+    <td><b>Mwah Mwah Mwah</b></td>
+  </tr>
+</table>
