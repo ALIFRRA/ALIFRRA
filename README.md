@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app" />
+  <br>
+  $${\color{red}P}{\color{orange}E}{\color{yellow}T}{\color{green}E}{\color{blue}R}{\color{indigo}N}{\color{purple}A}{\color{red}K} \space {\color{orange}L}{\color{yellow}E}{\color{green}L}{\color{blue}E} \space {\color{indigo}D}{\color{purple}U}{\color{red}M}{\color{orange}B}{\color{yellow}O}$$
+  <br>
 </p>
 
 <table border="0">
