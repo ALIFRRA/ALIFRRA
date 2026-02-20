@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app" />
+<p align="center"> PETERNAK LELE DUMBO ASELI MINAT??
+  <img src="https://capsule-render.vercel.app" alt="Banner RGB 1" />
 </p>
 
 <table border="0">
