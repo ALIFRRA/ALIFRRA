@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app" alt="Banner RGB 1" />
+  <img src="https://capsule-render.vercel.app" />
 </p>
 
 <table border="0">
