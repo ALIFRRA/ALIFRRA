@@ -1,5 +1,5 @@
-# PETERNAK LELE DUMBO ASELI MINAT?? 
-![ikan-lele](https://github.com/user-attachments/assets/79f80a87-59de-4196-9079-f940d7445901) Kualitas Super Minat Cek Repo
+# PETERNAK LELE DUMBO ASELI MINAT??
+<img src="https://github.com/user-attachments/assets/79f80a87-59de-4196-9079-f940d7445901" width="300" /> Kualitas Super Minat Cek Repo
 
 
 
