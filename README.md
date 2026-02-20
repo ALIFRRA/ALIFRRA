@@ -1,4 +1,6 @@
-# ![PETERNAK LELE DUMBO MINAT??](./rgb-text.svg)
+# Header Peternak Lele Dumbo Aseli Minat??
+![Header](https://capsule-render.vercel.app)
+
 <img src="https://github.com/user-attachments/assets/79f80a87-59de-4196-9079-f940d7445901" width="100" height="150" /> Kualitas Super Minat Cek Repo
 
 
