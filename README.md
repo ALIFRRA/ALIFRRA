@@ -3,4 +3,5 @@
 
 
 
-#laskarpecintahitorigotoh
+# LASKAR PECINTA HITORI GOTOH
+![bocchi-bocchi-the-rock](https://github.com/user-attachments/assets/8c50ff38-849e-4b92-8cee-83886145bc2f)
