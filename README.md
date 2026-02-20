@@ -1,4 +1,4 @@
-![PETERNAK LELE DUMBO ASELI MINAT??](./text-rgb.svg)
+![PETERNAK LELE DUMBO ASELI MINAT??](./rgb-text.svg)
 
 <table border="0">
   <tr>
